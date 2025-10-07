@@ -1,0 +1,4 @@
+rootProject.name = 'edge-detection-viewer'
+include(':app')
+
+

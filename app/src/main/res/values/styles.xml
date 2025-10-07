@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EdgeDemo" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="Widget.TransparentTextureView" parent="@android:style/Widget">
+    </style>
+</resources>
+
+

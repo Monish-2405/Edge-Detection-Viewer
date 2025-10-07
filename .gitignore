@@ -1,0 +1,21 @@
+# Node / Web
+node_modules/
+web/dist/
+
+# IDE / OS
+*.iml
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Gradle / Android
+.gradle/
+.gradle
+build/
+app/build/
+.cxx/
+/local.properties
+/cmake-build-*/
+
+
